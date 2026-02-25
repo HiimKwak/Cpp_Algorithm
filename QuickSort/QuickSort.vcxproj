@@ -13,8 +13,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{ec88af97-dddd-4499-8b3a-238fcf20700d}</ProjectGuid>
-    <RootNamespace>SelectionSort</RootNamespace>
+    <ProjectGuid>{47da0782-7487-4d8c-9d66-de9728e9ee36}</ProjectGuid>
+    <RootNamespace>QuickSort</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
