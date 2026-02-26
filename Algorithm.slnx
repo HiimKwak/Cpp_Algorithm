@@ -4,6 +4,7 @@
   </Configurations>
   <Project Path="BinarySearch/BinarySearch.vcxproj" Id="2efe85ff-8c5f-4203-b22c-c11cae86e7d9" />
   <Project Path="BubbleSort/BubbleSort.vcxproj" Id="2dfeecbe-6c6f-4075-aac5-f08a6e53fdeb" />
+  <Project Path="HeapSort/HeapSort.vcxproj" Id="960787fa-2576-433b-8072-6f9751225196" />
   <Project Path="InsertionSort/InsertionSort.vcxproj" Id="791de5bf-cb64-45f1-8aef-b98b7bd3b4bb" />
   <Project Path="MergeSrot/MergeSrot.vcxproj" Id="13734fce-831c-4ebc-b82a-3bfae4e1473a" />
   <Project Path="QuickSort/QuickSort.vcxproj" Id="47da0782-7487-4d8c-9d66-de9728e9ee36" />
