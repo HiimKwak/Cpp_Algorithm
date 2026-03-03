@@ -3,7 +3,7 @@
 class Bounds
 {
 public:
-	Bounds(int x, int y, int width, int height) : x(x), y(y), width(width), height(height) {}
+	Bounds(int x, int y, int width = 1, int height = 1) : x(x), y(y), width(width), height(height) {}
 
 	bool Intersects(const Bounds& other) const;
 
